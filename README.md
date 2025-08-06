@@ -3,7 +3,7 @@
 A modern Flutter interface for group video calls, designed as a university project. Features a clean dashboard with seamless navigation between chat and call interfaces.
 
 <div align="center">
-  <img src="assets/screenshots/1.png" width="300" alt="User Interface">
+  <img src="assets/1.png" width="300" alt="User Interface">
 </div>
 
 ## ✨ Features
